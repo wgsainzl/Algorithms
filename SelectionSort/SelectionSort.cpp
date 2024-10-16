@@ -14,7 +14,7 @@ void selectionSort(vector <int> &vec){
 
     for(int i=0; i<n -1; i++){
         int minVal=i;
-        for(int j=i+1; i<n; j++){
+        for(int j=i+1; j<n; j++){
             if(vec[j]<vec[minVal]){
                 minVal=j;
             }
