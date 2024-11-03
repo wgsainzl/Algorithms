@@ -1,0 +1,3 @@
+C:/Users/willy/OneDrive/Documentos/Willy/Tec/Estructura de Datos/Algoritmos/Graphs/cmake-build-debug/CMakeFiles/Graphs.dir
+C:/Users/willy/OneDrive/Documentos/Willy/Tec/Estructura de Datos/Algoritmos/Graphs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/willy/OneDrive/Documentos/Willy/Tec/Estructura de Datos/Algoritmos/Graphs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
